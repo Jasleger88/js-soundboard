@@ -1,4 +1,4 @@
-body {
+body 
   max-width: 500px;
   margin: 0 auto;
   background-color: #fafafa;
@@ -15,7 +15,7 @@ body {
   width: 111px;
   height: 111px;
   line-height: 111px;
-  color: #ea422c;
+  color: purple;
   margin: 4px 2px;
   text-decoration: none;
   font-size: 1.2em;
@@ -26,8 +26,8 @@ body {
 }
 
 #player div:hover {
-  background-color: black;
-  color: white;
+  background-color: blueviolet;
+  color: greenyellow;
 }
 
 #randomizer {
